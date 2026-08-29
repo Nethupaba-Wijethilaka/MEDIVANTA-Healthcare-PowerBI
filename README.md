@@ -217,7 +217,7 @@ This dashboard is designed for:
 
 | File | Description |
 |---|---|
-| `MEDIVANTA_Commercial_SupplyChain_Performance.pbix.pbix` | Interactive Power BI dashboard |
+| `MEDIVANTA_Commercial_SupplyChain_Performance.pbix` | Interactive Power BI dashboard |
 | `Commercial Performance.PNG` | Commercial Performance dashboard preview |
 | `Supply Chain & Inventory Performance.PNG` | Supply Chain & Inventory Performance dashboard preview |
 | `README.md` | Project documentation |
