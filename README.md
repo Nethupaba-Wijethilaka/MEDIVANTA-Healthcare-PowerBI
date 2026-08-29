@@ -175,11 +175,11 @@ The dashboard follows an **executive-style design approach** focused on clarity,
 
 ### 📊 Commercial Performance
 
-![Commercial Performance](Commercial Performance.PNG)
+![Commercial Performance](Commercial%20Performance.PNG)
 
 ### 🚚 Supply Chain & Inventory Performance
 
-![Supply Chain & Inventory Performance](screenshots/supply-chain-inventory.png)
+![Supply Chain & Inventory Performance](Supply%20%26%20Inventory%20Performance.PNG)
 
 ---
 
@@ -217,11 +217,10 @@ This dashboard is designed for:
 
 | File | Description |
 |---|---|
-| `MEDIVANTA_Commercial_SupplyChain_Performance.pbix` | Interactive Power BI dashboard |
-| `commercial-performance.png` | Commercial Performance preview |
-| `supply-chain-inventory.png` | Supply Chain & Inventory Performance preview |
+| `MEDIVANTA_Commercial_SupplyChain_Performance.pbix.pbix` | Interactive Power BI dashboard |
+| `Commercial Performance.PNG` | Commercial Performance dashboard preview |
+| `Supply Chain & Inventory Performance.PNG` | Supply Chain & Inventory Performance dashboard preview |
 | `README.md` | Project documentation |
-
 ---
 
 ## 👩‍💻 Project Focus
