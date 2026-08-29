@@ -179,7 +179,7 @@ The dashboard follows an **executive-style design approach** focused on clarity,
 
 ### 🚚 Supply Chain & Inventory Performance
 
-![Supply Chain & Inventory Performance](Supply%20Chain%26%20Inventory%20Performance.PNG)
+![Supply Chain & Inventory Performance](Supply%20Chain%20%26%20Inventory%20Performance.PNG)
 
 ---
 
