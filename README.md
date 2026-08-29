@@ -175,7 +175,7 @@ The dashboard follows an **executive-style design approach** focused on clarity,
 
 ### 📊 Commercial Performance
 
-![Commercial Performance](screenshots/commercial-performance.png)
+![Commercial Performance](Commercial Performance.PNG)
 
 ### 🚚 Supply Chain & Inventory Performance
 
